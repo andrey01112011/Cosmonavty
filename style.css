@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    color: gold;
+}
+
+section{
+    width: 100%;
+    display: flex;
+}
+
+.text{
+    width: 70%;
+    color: azure;
+    font-size: 20px;
+    background-color: rgba(0, 0, 0, 0.267);
+}
+.img{
+    width: 30%;
+}
+
+.img img{
+    width: 100%;
+}
+
+body{
+    background-image: url('images/Сайт\ про\ российских\ космонавтов.jpg');
+}
+
